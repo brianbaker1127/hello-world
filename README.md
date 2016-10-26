@@ -1,2 +1,3 @@
 # hello-world
-just for the tutorial to github
+
+My name's Brian and I use my github for mainly for work and research purposes. I also like long walks on the beach.
